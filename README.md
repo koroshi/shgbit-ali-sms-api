@@ -1,6 +1,8 @@
 # shgbit-ali-sms-api
 aliyun sms client 阿里云通信nodejs客户端
 
+[阿里云通信文档](https://help.aliyun.com/document_detail/55284.html?spm=5176.doc56189.6.551.wqSBtS)
+
 ### 安装
 
 ```
