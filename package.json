@@ -1,0 +1,23 @@
+{
+  "name": "shgbit-ali-sms-api",
+  "version": "1.0.0",
+  "description": "Aliyun sms client 阿里云通信nodejs客户端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koroshi/shgbit-ali-sms-api.git"
+  },
+  "keywords": [
+    "ali",
+    "sms",
+    "client"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
